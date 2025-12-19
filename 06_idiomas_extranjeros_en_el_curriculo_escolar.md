@@ -6,6 +6,7 @@
 > eventual tercer idioma, su obligatoriedad según el tipo de escuela y su relevancia
 > académica, especialmente en el *Gymnasium* y para la obtención del *Abitur*.
 
+---
 
 # Idiomas extranjeros en el currículo escolar alemán
 
