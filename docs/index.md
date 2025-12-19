@@ -9,7 +9,7 @@ description: >
 <nav class="main-nav">
   <a class="nav-link" href="./">Inicio</a> |
   <a class="nav-link" href="./serie">Serie</a> |
-  <a class="nav-link" href="./Referencias">Referencias</a>
+  <a class="nav-link" href="../Referencias">Referencias</a>
 </nav>
 
 <script>
@@ -32,7 +32,7 @@ El contenido está organizado como recurso educativo abierto para estudiantes, d
 
 ## 🗺️ Mapa conceptual (visión general)
 
-![Mapa conceptual del sistema educativo alemán](./assets/mapa_conceptual_sistema_educativo_aleman.png)
+![Mapa conceptual del sistema educativo alemán](../assets/mapa_conceptual_sistema_educativo_aleman.png)
 
 ---
 
