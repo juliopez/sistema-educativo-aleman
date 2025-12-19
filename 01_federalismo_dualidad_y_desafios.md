@@ -62,4 +62,4 @@ El sistema también enfrenta retos importantes:
 *   **Desigualdades:** Persisten las desigualdades entre el *Gymnasium* y la *Hauptschule*, así como tensiones relacionadas con la integración de estudiantes inmigrantes.
 
 > 📚 Las referencias utilizadas para este apunte se encuentran en el archivo
-> [`referencias.md`](./referencias.md) de este repositorio.
+> [`referencias.md`](./Referencias.md) de este repositorio.
