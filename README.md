@@ -16,7 +16,7 @@ Cada archivo Markdown corresponde a un **video individual** de la lista de repro
 
 **“Sistema Educativo Alemán: estructura, trayectorias y desafíos”**
 
-📺 Canal de YouTube: *(agregar enlace)*
+📺 Canal de YouTube: [@juliopez](https://www.youtube.com/@Juliopez).
 
 ---
 
