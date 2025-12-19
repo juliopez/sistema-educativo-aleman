@@ -60,3 +60,6 @@ El sistema también enfrenta retos importantes:
 *   **Integración y Bilingüismo:** Alemania cuenta con millones de estudiantes que hablan otras lenguas en casa (como turco, árabe, ruso, español, etc.). Existen programas de **integración lingüística** y apoyo de **alemán como segunda lengua (DaZ/DaF)**, además de escuelas internacionales y bilingües.
 *   **Problemas Actuales:** Los desafíos incluyen la **falta de profesores** (*Lehrermangel*), infraestructura escolar desigual entre los estados, debates sobre la justicia del *tracking* a los 10 años, y **bajo rendimiento en estudios PISA recientes**.
 *   **Desigualdades:** Persisten las desigualdades entre el *Gymnasium* y la *Hauptschule*, así como tensiones relacionadas con la integración de estudiantes inmigrantes.
+
+> 📚 Las referencias utilizadas para este apunte se encuentran en el archivo
+> [`referencias.md`](./referencias.md) de este repositorio.
