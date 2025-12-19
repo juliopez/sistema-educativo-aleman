@@ -2,7 +2,7 @@
 
 Repositorio de apuntes académicos sobre el **sistema educativo alemán**, elaborados como
 material base para una **serie de videos explicativos** publicados en el canal de YouTube
-del autor.
+[@juliopez](https://www.youtube.com/@Juliopez).
 
 Los textos están pensados como **recursos educativos abiertos**, orientados a estudiantes,
 docentes e investigadores interesados en educación comparada, políticas educativas y
