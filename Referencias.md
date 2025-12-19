@@ -52,7 +52,7 @@ https://ec.europa.eu/ploteus/en/compare
 ## 💶 Financiamiento estudiantil
 
 **BAföG – Bundesausbildungsförderungsgesetz**  
-https://www.bafog.de
+[https://www.bafog.de](https://www.bafög.de)
 
 ---
 
