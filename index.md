@@ -38,7 +38,8 @@ El contenido está organizado como recurso educativo abierto para estudiantes, d
 
 ## 🎥 Lista de reproducción en YouTube
 
-- 📺 Serie completa: **(https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdC8v_J)**
+- 📺 Serie completa: [Ver lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdc8v_J)
+
 
 ---
 
@@ -55,5 +56,6 @@ El contenido está organizado como recurso educativo abierto para estudiantes, d
 ## 👤 Autoría
 
 **Autor:** Dr. Julio Lopez-Nunez  
-**Para consultas o comentarios:** julio.lopez-nunez@uni-konstanz.de
+**Para consultas o comentarios:** [julio.lopez-nunez@uni-konstanz.de](mailto:julio.lopez-nunez@uni-konstanz.de)
+
 **Año:** 2025  
