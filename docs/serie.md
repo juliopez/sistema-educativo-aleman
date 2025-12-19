@@ -8,7 +8,7 @@ description: >
 <nav class="main-nav">
   <a class="nav-link" href="./">Inicio</a> |
   <a class="nav-link" href="./serie">Serie</a> |
-  <a class="nav-link" href="./Referencias">Referencias</a>
+  <a class="nav-link" href="../Referencias">Referencias</a>
 </nav>
 
 # 📚 Serie (orden lógico)
