@@ -113,7 +113,7 @@ desde el marco general del sistema hasta el acceso a la educación superior.
 
 ### 🟫 Bloque 6 – Visión integradora y perspectiva internacional
 
-- **13_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md**  
+- **14_sistema_educativo_aleman_y_acceso_a_la_educacion_superior.md**  
   Visión integrada del sistema educativo alemán y el acceso a la educación superior,
   incluyendo estudiantes internacionales, *Studienkolleg*, costos y compatibilidad
   con el marco europeo de cualificaciones.
