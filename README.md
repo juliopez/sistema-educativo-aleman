@@ -29,7 +29,7 @@ temática titulada:
 Los videos tienen una duración aproximada de **7 minutos** y se basan directamente en los
 apuntes disponibles en este repositorio.
 
-📺 Canal de YouTube: [@juliopez](https://www.youtube.com/@Juliopez).
+📺 Serie completa: [Ver lista de reproducción en YouTube](https://www.youtube.com/playlist?list=PLrc3rKEj3Qc9BbuluW1guhJDhtKdc8v_J)
 
 ---
 
